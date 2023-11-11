@@ -25,3 +25,9 @@ EFI Lenovo G50-80 - Intel Core i3-5005U 2GHz - macOS Sonoma 14.1.1 - OpenCore 0.
 - Disabled - Para ativar aceleração gráfica com OCPL
 
 - Kests Intel Wifi/BT removidas da EFI, caso use Wifi/BT Intel adicinar kexts e dar um OC Clean Snapshot
+
+
+  ## Agradecimentos:
+- [Opencore Team] https://dortania.github.io/getting-started/
+- [Gabriel Luchina] https://github.com/luchina-gabriel
+
